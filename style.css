@@ -1,0 +1,32 @@
+body {
+    background-color: #10caeb;
+    font: normal 15pt Arial;
+}
+header {
+    text-align: center;
+}
+section {
+    background-color: white;
+    border-radius: 10px;
+    padding: 15px;
+    width: 60%;
+    height: auto;
+    margin: auto;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.41);
+}
+
+h1 {
+    color: white;
+}
+#list {
+    width: 150px;
+}
+div {
+    padding: 15px;
+}
+footer {
+    font-size: 15px;
+    color: white;
+    text-align: center;
+    font-style: italic;
+}
